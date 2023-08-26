@@ -1,0 +1,11 @@
+go_import_path: github.com/catamat/go-aib
+
+language: go
+
+go:
+  - 1.16.x
+  - tip
+
+os:
+  - linux
+  - osx
